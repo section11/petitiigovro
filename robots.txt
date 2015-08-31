@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: 
+Disallow: /application/
+Disallow: /css/
+Disallow: /db/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /mobile_API/
+Disallow: /system/
+Sitemap: http://hackrogov.cloudapp.net/petitii/sitemap.xml

@@ -1,0 +1,44 @@
+h1 {
+font-size: 18px;
+font-weight:bold;
+position:absolute;
+padding: -8px 0 0 50px;
+font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+h2 {
+font-size: 18px;
+font-weight:bold;
+padding: -45px 0 0 50px;
+font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+h3 {
+font-size: 28px;
+font-family: 'Segoe UI', Tahoma, sans-serif;
+text-align:center;
+font-weight:bold;
+}
+
+h4 {
+position:absolute;
+font-size: 18px;
+font-family: 'Segoe UI', Tahoma, sans-serif;
+text-align:center;
+font-weight:bold;
+width:300px;
+left:50%;
+margin-left:-110px;
+bottom:10px;
+}
+
+.camp1 {
+font-family:'Arial';
+font-size:14px;
+font-weight:bold;
+}
+
+.camp2 {
+font-family:'Arial';
+font-size:14px;
+}
